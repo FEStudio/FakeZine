@@ -1,0 +1,2 @@
+# FakeZine
+仿zine
